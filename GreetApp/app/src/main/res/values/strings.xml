@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GreetApp</string>
+    <string name="suomeksi">Suomeksi</string>
+    <string name="surprise">Surprise</string>
+    <string name="english">English</string>
+    <string name="sverige">Sverige</string>
+</resources>
